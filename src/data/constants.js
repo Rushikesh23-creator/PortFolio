@@ -117,7 +117,7 @@ export const experiences = [
     id: 0,
     img: "https://tse1.mm.bing.net/th?id=OIP.4D9jZIUX9dAfYEMfej5H7gHaDs&pid=Api&rs=1&c=1&qlt=95&w=202&h=100",
     role: "Java Developer Intern",
-    company: "V3 Solution Pvt. Ltd.",
+    company: "R3 SYSTEMS INDIA PRIVATE LIMITED",
     date: "Nov 2020 - Dec 2020",
     desc: "• Developed a robust backend using Spring Boot, ensuring efficient data processing, RESTful API design, and seamless communication between the frontend and the database.",
     skills: [
