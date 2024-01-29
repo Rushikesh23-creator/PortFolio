@@ -115,7 +115,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "",
+    img: "https://tse1.mm.bing.net/th?id=OIP.4D9jZIUX9dAfYEMfej5H7gHaDs&pid=Api&rs=1&c=1&qlt=95&w=202&h=100",
     role: "Java Developer Intern",
     company: "V3 Solution Pvt. Ltd.",
     date: "Nov 2020 - Dec 2020",

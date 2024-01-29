@@ -10,7 +10,7 @@ import TimelineDot from '@mui/lab/TimelineDot';
 import ExperienceCard from '../Cards/ExperienceCard';
 import { experiences } from '../../data/constants';
 
-const Container = styled.div`
+const Container = styled.div`   
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -39,6 +39,7 @@ const Wrapper = styled.div`
 `;
 
 const Title = styled.div`
+
 font-size: 42px;
 text-align: center;
 font-weight: 600;
@@ -51,9 +52,11 @@ margin-top: 20px;
 `;
 
 const Desc = styled.div`
+
     font-size: 18px;
     text-align: center;
     max-width: 600px;
+    
     color: ${({ theme }) => theme.text_secondary};
     @media (max-width: 768px) {
         margin-top: 12px;
@@ -70,6 +73,7 @@ const TimelineSection = styled.div`
     align-items: center;
     justify-content: center;
     gap: 12px;
+    
 `;
 
 
